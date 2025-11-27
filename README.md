@@ -25,4 +25,4 @@ Este projeto apresenta os **times participantes**, suas cores, escudos e princip
 
 ---
 
-## 📂 Estrutura do Repositório
+
